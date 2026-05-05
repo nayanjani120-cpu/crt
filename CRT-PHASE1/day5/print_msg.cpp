@@ -1,7 +1,7 @@
 #include <iostream>
 using namespace std;
 // without argument and without return type function
-void printmsg()         //parameter
+void printmsg()         //argument
 {              
     cout<<"hello world";
 
@@ -9,7 +9,7 @@ void printmsg()         //parameter
 
 int main(){
 
-    printmsg();   //argument
+    printmsg();   //parameter
     
     return 0;
 
