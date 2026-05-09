@@ -7,7 +7,7 @@ class cricketers{
     double avg;
 
     // parameterized constructor
-    cricketers(string n , int r , double a){
+    cricketers(string n , int r , double avg){
         name = n;
         runs = r; 
         this->avg = avg; 
